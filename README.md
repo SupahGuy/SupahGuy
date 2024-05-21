@@ -1,6 +1,6 @@
 - Hello, I'm SupahGuy.
 - I like coding
-- I'm currently learning Java & PHP
+- I'm currently learning Java Swing and JDBC
 - Reach me on GitHub :D
 
 <!---
