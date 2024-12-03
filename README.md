@@ -1,7 +1,6 @@
 - Hello, I'm SupahGuy.
-- I like coding
-- I'm currently learning C#
-- Reach me on GitHub :D
+- I have experience in Java, C#, Python, HTML, CSS, & JS (From most experienced to least.)
+- I'm currently Improving my skills in C# and Python
 
 <!---
 SupahGuy/SupahGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
