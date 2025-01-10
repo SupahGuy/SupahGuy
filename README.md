@@ -1,5 +1,5 @@
 - Hello, I'm SupahGuy.
-- I have experience in Java, C#, Python, HTML, CSS, & JS (From most experienced to least.)
+- I have experience in C#, Java, Python, HTML, CSS, & JS (From most experienced to least.)
 - I'm currently Improving my skills in C# and Python
 
 <!---
